@@ -1,4 +1,4 @@
-# YO-Y-ELLA
+# YO
 Sovereign Autonomous Operating System. SAOS v17.0.0: arquitectura de coordinación, gobernanza, eventos, cognición, ejecución, recuperación y evidencia verificable para sistemas autónomos. 
 YO Y ELLA
 
